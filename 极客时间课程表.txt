@@ -1,0 +1,10 @@
+极客时间选修以下3门课程之一学习：
+
+数据分析实战45讲
+https://time.geekbang.org/column/intro/100021701?from=service
+
+MySQL实战45讲
+https://time.geekbang.org/column/intro/100020801?from=service
+
+机器学习40讲
+https://time.geekbang.org/column/intro/100008701?from=service
